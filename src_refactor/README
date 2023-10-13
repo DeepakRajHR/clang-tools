@@ -1,0 +1,23 @@
+* Goal:
+
+  - Write a bare minimum source to source translation using clang
+
+  - A struct defined as following
+
+      struct ST {
+        ...
+      };
+
+      // usage
+      struct ST var;
+      
+    and was refactored as 
+
+      typedef struct ST {
+      ...
+      } ST_T;
+
+      // usage
+      ST_T var;
+
+  - Refactor all occurrences of struct ST to ST_T
