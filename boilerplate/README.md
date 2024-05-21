@@ -1,6 +1,8 @@
-- based_on_rec_ast_visitor.cpp: Boilerplate code for a simple clang libtooling based tool based on RecursiveASTVisitor
+# Source files
 
-- based_on_rec_ast_visitor.cpp: Boilerplate code for a simple clang libtooling based tool based on ASTMatcher
+- `based_on_rec_ast_visitor.cpp`: Boilerplate code for a simple clang libtooling based tool based on RecursiveASTVisitor
+
+- `based_on_rec_ast_visitor.cpp`: Boilerplate code for a simple clang libtooling based tool based on ASTMatcher
 
 # Requirement
 
